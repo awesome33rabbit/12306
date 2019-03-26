@@ -11,9 +11,12 @@ Buying train tickets
 
 # 使用
 使用 Python3.6 开发的项目，没有对其他版本 Python 测试
+### undo 迭代
 
 ## 构建环境
 `pip install -r requirements.txt`
 
 ## 运行脚本
 `selenium_12306.py`
+
+
