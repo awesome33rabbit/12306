@@ -10,11 +10,19 @@ Buying train tickets
 * 提交订单
 
 # 项目完整情况
-* [x] 自动登陆
-* [ ] 自动识别验证码
-* [x] 自动搜索
-* [x] 自动添加乘客
-* [x] 自动提交订单
+> automatic_12306.py
+>> * [x] 自动登陆
+>> * [x] 自动识别验证码
+>> * [x] 自动搜索
+>> * [x] 自动添加乘客
+>> * [x] 自动提交订单
+
+> selienium_12306.py
+>> * [x] 自动登陆
+>> * [ ] 自动识别验证码
+>> * [x] 自动搜索
+>> * [x] 自动添加乘客
+>> * [x] 自动提交订单
 
 # 使用
 使用 Python3.6 开发的项目，没有对其他版本 Python 测试
@@ -23,6 +31,7 @@ Buying train tickets
 `pip install -r requirements.txt`
 
 ## 运行脚本
+`automatic_12306.py`
 `selenium_12306.py`
 
 
