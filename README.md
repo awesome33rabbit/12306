@@ -4,6 +4,7 @@ Buying train tickets
 
 # 特性
 * selenium + Chrome 模拟登陆 12306
+* 验证码识别
 * 购票查询
 * 购票预订
 * 添加购票乘客
